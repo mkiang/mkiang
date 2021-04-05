@@ -1,6 +1,5 @@
-### About me
-
 <!--
+### About me
 **mkiang/mkiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
@@ -10,6 +9,5 @@
 
 **Bio**
 
-- [Personal website: mathewkiang.com](https://mathewkiang.com)
 - My [CV](https://mathewkiang.com/assets/mkiangcv.pdf)
 - My (infrequently used) [Twitter (@mathewkiang)](https://twitter.com/mathewkiang)
