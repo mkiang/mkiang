@@ -20,4 +20,5 @@
 
 - [Stanford](https://med.stanford.edu/epidemiology-dept.html)
 - [CrisisReady](https://crisisready.io)
+- [Harvard FXB Center for Health and Human Rights](https://fxb.harvard.edu)
 - [COVID-19 Mobility Data Network](https://www.covid19mobility.org)
