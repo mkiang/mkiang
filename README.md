@@ -5,6 +5,9 @@
 
 **Recent(ish) projects**
 
+- [Excess external causes of death during COVID-19](https://github.com/mkiang/excess_external_deaths) in _JAMA Internal Medicine_
+- [Excess drug poisonings in California during COVID-19](https://github.com/mkiang/excess_drug_overdoses) in _The Lancet Regional Health Americas_
+- [The dynamics of racial/ethnic inequities during COVID-19](https://github.com/mkiang/dynamic_inequality) in _PNAS_
 - [Black/white opioid inequities](https://github.com/mkiang/opioid_inequities) in _Journal of Urban Health_
 - [Urban/rural disparities in distance to opioid treatment](https://github.com/mkiang/opioid_treatment_distance) in _Drug and Alcohol Dependence_
 - [COVID-19 and airline testing strategies](https://github.com/mkiang/airline_testing_strategies) in _The Lancet Infectious Diseases_
