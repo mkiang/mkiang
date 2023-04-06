@@ -5,6 +5,7 @@
 
 **Recent(ish) projects**
 
+- [Quantifying exposure to wildfire smoke among California school kids](https://github.com/mkiang/wildfires_school_exposure) in _JAMA Network Open_
 - [Excess physician mortality](https://github.com/mkiang/excess_physician_mortality) in _JAMA Internal Medicine_
 - [Excess external causes of death during COVID-19](https://github.com/mkiang/excess_external_deaths) in _JAMA Internal Medicine_
 - [Excess drug poisonings in California during COVID-19](https://github.com/mkiang/excess_drug_overdoses) in _The Lancet Regional Health Americas_
