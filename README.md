@@ -30,6 +30,7 @@
 - My [CV](https://mathewkiang.com/assets/mkiangcv.pdf)
 - My (infrequently used) [Twitter (@mathewkiang)](https://twitter.com/mathewkiang)
 - My [Google Scholar](https://scholar.google.com/citations?user=eD9_J3wAAAAJ&hl=en)
+- My [lab website](https://kianglab.com)
 
 **Organizations**
 
