@@ -18,6 +18,7 @@
 - [Medical school statements after George Floyd's murder](https://github.com/mkiang/statement_analysis) in _Annals of Epidemiology_
 
 **Random side projects**
+- [Counting the number of times they say "family" in the Fast and Furious movies](https://github.com/mkiang/fast_furious_family/)
 - [Using Oura data to look at how COVID-19 impacted me](https://github.com/mkiang/covid_self)
 - [Scraping data on SF public schools](https://github.com/mkiang/scrape_sf_schools)
 - [Increasing profanity in Taylor Swift's discography](https://github.com/mkiang/students_tay_distribution)
