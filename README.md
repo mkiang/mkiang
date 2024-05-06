@@ -25,16 +25,13 @@
 - [Simulating Candyland rules for toddlers](https://github.com/mkiang/candyland_analysis)
 - [Shiny app for SEIR / SIR infectious disease models](https://github.com/mkiang/DiseaseDynamics)
 
+**Projects I participated in** (but are not my code repositories)
+- [Estimating youth experiencing parental deaths due to drugs or firearms](https://github.com/benjisamschlu/parental_deaths) by Ben Schlüter in _JAMA_
+- [Estimating lead exposure among children in Chicago](https://github.com/benhuynh/chicagoLeadExposure) by Ben Huynh in _JAMA Pediatrics_
+
 **Bio**
 
 - My [CV](https://mathewkiang.com/assets/mkiangcv.pdf)
-- My (infrequently used) [Twitter (@mathewkiang)](https://twitter.com/mathewkiang)
 - My [Google Scholar](https://scholar.google.com/citations?user=eD9_J3wAAAAJ&hl=en)
 - My [lab website](https://kianglab.com)
-
-**Organizations**
-
-- [Stanford Epidemiology and Population Health](https://med.stanford.edu/epidemiology-dept.html)
-- [CrisisReady](https://crisisready.io)
-- [Harvard FXB Center for Health and Human Rights](https://fxb.harvard.edu)
-- [COVID-19 Mobility Data Network](https://www.covid19mobility.org)
+- [The Department of Epidemiology and Population Health](https://med.stanford.edu/epidemiology-dept.html)
