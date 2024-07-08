@@ -3,6 +3,12 @@
 **mkiang/mkiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+**Bio**
+- My [CV](https://mathewkiang.com/assets/mkiangcv.pdf)
+- My [Google Scholar](https://scholar.google.com/citations?user=eD9_J3wAAAAJ&hl=en)
+- My [lab website](https://kianglab.com)
+- [The Department of Epidemiology and Population Health](https://med.stanford.edu/epidemiology-dept.html)
+
 **Recent(ish) projects**
 
 - [Quantifying exposure to wildfire smoke among California school kids](https://github.com/mkiang/wildfires_school_exposure) in _JAMA Network Open_
@@ -17,6 +23,10 @@
 - [Opioid mortality across states](https://github.com/mkiang/opioid_geographic) in _JAMA Network Open_
 - [Medical school statements after George Floyd's murder](https://github.com/mkiang/statement_analysis) in _Annals of Epidemiology_
 
+**Projects I participated in** (but are not my code repositories)
+- [Estimating youth experiencing parental deaths due to drugs or firearms](https://github.com/benjisamschlu/parental_deaths) by Ben Schlüter in _JAMA_
+- [Estimating lead exposure among children in Chicago](https://github.com/benhuynh/chicagoLeadExposure) by Ben Huynh in _JAMA Pediatrics_
+
 **Random side projects**
 - [Counting the number of times they say "family" in the Fast and Furious movies](https://github.com/mkiang/fast_furious_family/)
 - [Using Oura data to look at how COVID-19 impacted me](https://github.com/mkiang/covid_self)
@@ -25,13 +35,8 @@
 - [Simulating Candyland rules for toddlers](https://github.com/mkiang/candyland_analysis)
 - [Shiny app for SEIR / SIR infectious disease models](https://github.com/mkiang/DiseaseDynamics)
 
-**Projects I participated in** (but are not my code repositories)
-- [Estimating youth experiencing parental deaths due to drugs or firearms](https://github.com/benjisamschlu/parental_deaths) by Ben Schlüter in _JAMA_
-- [Estimating lead exposure among children in Chicago](https://github.com/benhuynh/chicagoLeadExposure) by Ben Huynh in _JAMA Pediatrics_
-
-**Bio**
-
-- My [CV](https://mathewkiang.com/assets/mkiangcv.pdf)
-- My [Google Scholar](https://scholar.google.com/citations?user=eD9_J3wAAAAJ&hl=en)
-- My [lab website](https://kianglab.com)
-- [The Department of Epidemiology and Population Health](https://med.stanford.edu/epidemiology-dept.html)
+**Random Shiny Apps**
+- [Basic ODE Models](https://mkiang.shinyapps.io/DiseaseDynamics/)
+- [IPUMS data explorer](https://mkiang.shinyapps.io/PrEligibles/)
+- [Opioid hotspots](https://sanjaybasu.shinyapps.io/opioid_geographic/)
+- [NIH success rates](https://apps.mathewkiang.com/nih_success_rates/)
