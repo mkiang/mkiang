@@ -11,6 +11,7 @@
 
 **Recent(ish) projects**
 
+- [Recent drug overdose mortality decline compared with pre-COVID-19 trend](https://github.com/mkiang/drug_mortality_2023) in _JAMA Network Open_
 - [Quantifying exposure to wildfire smoke among California school kids](https://github.com/mkiang/wildfires_school_exposure) in _JAMA Network Open_
 - [Excess physician mortality](https://github.com/mkiang/excess_physician_mortality) in _JAMA Internal Medicine_
 - [Excess external causes of death during COVID-19](https://github.com/mkiang/excess_external_deaths) in _JAMA Internal Medicine_
