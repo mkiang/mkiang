@@ -11,6 +11,7 @@
 
 **Recent(ish) projects**
 
+- [Modeling reemergence of infectious diseases in the US](https://github.com/mkiang/modeling_reemergence) in _JAMA_
 - [Recent drug overdose mortality decline compared with pre-COVID-19 trend](https://github.com/mkiang/drug_mortality_2023) in _JAMA Network Open_
 - [Quantifying exposure to wildfire smoke among California school kids](https://github.com/mkiang/wildfires_school_exposure) in _JAMA Network Open_
 - [Excess physician mortality](https://github.com/mkiang/excess_physician_mortality) in _JAMA Internal Medicine_
