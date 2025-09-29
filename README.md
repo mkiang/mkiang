@@ -10,7 +10,7 @@
 - [The Department of Epidemiology and Population Health](https://med.stanford.edu/epidemiology-dept.html)
 
 **Recent(ish) projects**
-
+- [Impact of discontinuing COVID-19 vaccination during pregnancy in the US](https://github.com/mkiang/covid_vaccine_infants) in _JAMA Pediatrics_
 - [Modeling reemergence of infectious diseases in the US](https://github.com/mkiang/modeling_reemergence) in _JAMA_
 - [Recent drug overdose mortality decline compared with pre-COVID-19 trend](https://github.com/mkiang/drug_mortality_2023) in _JAMA Network Open_
 - [Quantifying exposure to wildfire smoke among California school kids](https://github.com/mkiang/wildfires_school_exposure) in _JAMA Network Open_
