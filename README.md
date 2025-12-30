@@ -3,13 +3,13 @@
 **mkiang/mkiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-**Bio**
+**Biographical**
 - My [CV](https://mathewkiang.com/assets/mkiangcv.pdf)
 - My [Google Scholar](https://scholar.google.com/citations?user=eD9_J3wAAAAJ&hl=en)
 - My [lab website](https://kianglab.com)
 - [The Department of Epidemiology and Population Health](https://med.stanford.edu/epidemiology-dept.html)
 
-**Recent(ish) projects**
+**Research Projects**
 - [Trends in vaccine exemption rates in the US](https://github.com/mkiang/vaccine_exemptions) in _JAMA_
 - [Impact of discontinuing COVID-19 vaccination during pregnancy in the US](https://github.com/mkiang/covid_vaccine_infants) in _JAMA Pediatrics_
 - [Modeling reemergence of infectious diseases in the US](https://github.com/mkiang/modeling_reemergence) in _JAMA_
@@ -27,11 +27,11 @@
 - [Opioid mortality across states](https://github.com/mkiang/opioid_geographic) in _JAMA Network Open_
 - [Medical school statements after George Floyd's murder](https://github.com/mkiang/statement_analysis) in _Annals of Epidemiology_
 
-**Projects I participated in** (but are not my code repositories)
+**Projects I Participated In** (but are not my code repositories)
 - [Estimating youth experiencing parental deaths due to drugs or firearms](https://github.com/benjisamschlu/parental_deaths) by Ben Schlüter in _JAMA_
 - [Estimating lead exposure among children in Chicago](https://github.com/benhuynh/chicagoLeadExposure) by Ben Huynh in _JAMA Pediatrics_
 
-**Random side projects**
+**Random Side Projects**
 - [Calculating the travel time to parks for every SF resident](https://github.com/mkiang/sf_parks)
 - [A look at SF parking citations](https://github.com/mkiang/sf_parking_citations)
 - [Counting the number of times they say "family" in the Fast and Furious movies](https://github.com/mkiang/fast_furious_family/)
