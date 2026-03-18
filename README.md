@@ -11,7 +11,7 @@
 - [The Department of Epidemiology and Population Health](https://med.stanford.edu/epidemiology-dept.html)
 
 **Research Projects**
-- [Quantifying unrecognized COVID-19 deaths](https://github.com/mkiang/unclassified_covid_deaths in _Science Advances_
+- [Quantifying unrecognized COVID-19 deaths](https://github.com/mkiang/unclassified_covid_deaths) in _Science Advances_
 - [Trends in vaccine exemption rates in the US](https://github.com/mkiang/vaccine_exemptions) in _JAMA_
 - [Impact of discontinuing COVID-19 vaccination during pregnancy in the US](https://github.com/mkiang/covid_vaccine_infants) in _JAMA Pediatrics_
 - [Modeling reemergence of infectious diseases in the US](https://github.com/mkiang/modeling_reemergence) in _JAMA_
