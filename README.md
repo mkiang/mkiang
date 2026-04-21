@@ -34,6 +34,7 @@
 - [Estimating lead exposure among children in Chicago](https://github.com/benhuynh/chicagoLeadExposure) by Ben Huynh in _JAMA Pediatrics_
 
 **Random Side Projects**
+- [A talk about publishing papers](https://github.com/mkiang/paper_to_publication)
 - [Calculating the travel time to parks for every SF resident](https://github.com/mkiang/sf_parks)
 - [A look at SF parking citations](https://github.com/mkiang/sf_parking_citations)
 - [Counting the number of times they say "family" in the Fast and Furious movies](https://github.com/mkiang/fast_furious_family/)
