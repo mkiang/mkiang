@@ -18,6 +18,7 @@
 - [Estimating youth experiencing parental deaths due to cancer](https://github.com/mkiang/parental_deaths_cancer) in _JAMA Network Open_
 - [Recent drug overdose mortality decline compared with pre-COVID-19 trend](https://github.com/mkiang/drug_mortality_2023) in _JAMA Network Open_
 - [Quantifying exposure to wildfire smoke among California school kids](https://github.com/mkiang/wildfires_school_exposure) in _JAMA Network Open_
+- [Shifting racial/ethnic disparities during COVID-19](https://github.com/mkiang/ca_vaccination_impact) in _JGIM_
 - [Excess physician mortality](https://github.com/mkiang/excess_physician_mortality) in _JAMA Internal Medicine_
 - [Excess external causes of death during COVID-19](https://github.com/mkiang/excess_external_deaths) in _JAMA Internal Medicine_
 - [Excess drug poisonings in California during COVID-19](https://github.com/mkiang/excess_drug_overdoses) in _The Lancet Regional Health Americas_
